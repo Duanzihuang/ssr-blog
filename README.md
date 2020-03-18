@@ -7,5 +7,8 @@
 
 1. @zeit/next-css
 2. antd
-3. babel-plugin-import
+3. @ant-design/icons
+4. babel-plugin-import
+5. react-markdown
+6. markdown-navbar
 

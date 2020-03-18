@@ -1,0 +1,25 @@
+body {
+  background-color: #f6f6f6;
+}
+.common-main {
+  margin-top: 0.5rem;
+}
+.common-left {
+  background-color: #fff;
+  padding: 0.3rem;
+  border-radius: 0.3rem;
+  border-bottom: 1px solid #eee;
+}
+.common-right {
+  background-color: #fff;
+  padding: 0.3rem;
+  border-radius: 0.3rem;
+  border-bottom: 1px solid #eee;
+  margin-left: 0.5rem;
+}
+.common-box {
+  background-color: #fff;
+  padding: 0.3rem;
+  border-radius: 0.3rem;
+  border: 1px solid #eee;
+}
