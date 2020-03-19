@@ -9,6 +9,15 @@
 2. antd
 3. @ant-design/icons
 4. babel-plugin-import
-5. react-markdown
+5. react-markdown(被marked替换了)
 6. markdown-navbar
+7. marked
+8. highlight.js
+9. loadsh
+10. axios
 
+> egg-server
+
+1. egg
+2. egg-cors
+3. egg-mysql
