@@ -44,8 +44,14 @@ module.exports = appInfo => {
   }
 
   exports.security = {
+    csrf: {
+      enable: false
+    },
     domainWhiteList: ['*']
   }
+
+  // jsonwebtoken 加密的key
+  exports.tokenKey = '@#%90002222'
 
   return {
     ...config,

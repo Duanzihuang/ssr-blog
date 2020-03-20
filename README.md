@@ -16,8 +16,18 @@
 9. loadsh
 10. axios
 
-> egg-server
+> egg-blog
 
 1. egg
 2. egg-cors
 3. egg-mysql
+4. jsonwebtoken
+
+>react-admin-blog
+
+1. react
+2. react-dom
+3. antd
+4. @ant-design/icons
+5. crypto-js
+6. axios
