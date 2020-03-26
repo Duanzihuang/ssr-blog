@@ -22,7 +22,7 @@ function App() {
     <div id="app">
       <Router>
         <Switch>
-          <AuthRoute path="/layout" exact component={Layout} />
+          <AuthRoute path="/layout/" component={Layout} />
           <Route path="/login" component={Login} />
           <Redirect exact from="/" to="/layout" />
           <Route component={NotFound} />
